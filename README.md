@@ -10,11 +10,11 @@ git clone https://github.com/kenyiYR/GestorTareas.git
 
 ## Estructura del Proyecto:
 gestor_tareas/
--├── tests/
--│	└── test_gestor_tareas.py
--├── src/
--│	├── logica
--│	│	└── test_gestor_tareas.py
--│	└── vista
--│	└── gui_gestor_tareas.py
--└── README.md
+- ├── tests/
+- │	└── test_gestor_tareas.py
+- ├── src/
+- │	├── logica
+- │	│	└── test_gestor_tareas.py
+- │	└── vista
+- │	└── gui_gestor_tareas.py
+- └── README.md
