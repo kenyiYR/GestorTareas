@@ -9,6 +9,7 @@ bash
 git clone https://github.com/kenyiYR/GestorTareas.git
 
 ## Estructura del Proyecto:
+
 gestor_tareas/
 ├── tests/
 │	└── test_gestor_tareas.py
